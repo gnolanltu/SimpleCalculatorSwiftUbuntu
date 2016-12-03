@@ -1,5 +1,0 @@
-version: "Swift version 3.0.1 (swift-3.0.1-PREVIEW-3)"
-options: "8944fefd9cd7134edc3954a0a1bda1b2"
-build_time: [534112220, 839398000]
-inputs:
-  "/home/codio/workspace/SimpleCalculator/Sources/SimpleCalculator.swift": [534112216, 0]

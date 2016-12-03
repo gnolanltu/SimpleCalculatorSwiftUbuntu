@@ -1,6 +1,0 @@
-version: "Swift version 3.0.1 (swift-3.0.1-PREVIEW-3)"
-options: "de95ec2a6ffdcb39039bf255546359a2"
-build_time: [534112391, 944190000]
-inputs:
-  "/home/codio/workspace/SimpleCalculator/Tests/SimpleCalculatorTests/OtherCalculatorTests.swift": [534112241, 0]
-  "/home/codio/workspace/SimpleCalculator/Tests/SimpleCalculatorTests/SimpleCalculatorTests.swift": [534112389, 0]

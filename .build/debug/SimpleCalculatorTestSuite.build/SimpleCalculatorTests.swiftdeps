@@ -1,0 +1,102 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SimpleCalculatorTests"
+provides-nominal:
+- "C25SimpleCalculatorTestSuite21SimpleCalculatorTests"
+provides-member:
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", ""]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "allTests"]
+depends-top-level:
+- "SimpleCalculatorTests"
+- !private "IntegerLiteralType"
+- "SimpleCalculator"
+- "XCTestCase"
+- !private "StringLiteralType"
+- "Void"
+- "String"
+- !private "XCTAssertEqual"
+- !private "FloatLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "SimpleCalculator"]
+- !private ["Ps9AnyObject", "XCTAssertEqual"]
+- !private ["Ps9AnyObject", "add"]
+- ["Ps9AnyObject", "allTests"]
+- !private ["Ps9AnyObject", "div"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "mul"]
+- ["Ps9AnyObject", "setUp"]
+- ["Ps9AnyObject", "simpleCalc"]
+- !private ["Ps9AnyObject", "sub"]
+- ["Ps9AnyObject", "tearDown"]
+- ["Ps9AnyObject", "testAddTwoNumbersCheck"]
+- ["Ps9AnyObject", "testDivTwoNumbersCheck"]
+- ["Ps9AnyObject", "testMulTwoNumbersCheck"]
+- ["Ps9AnyObject", "testSubTwoNumbersCheck"]
+- ["Ps9AnyObject", ""]
+- !private ["Sq", "deinit"]
+- !private ["C16SimpleCalculator16SimpleCalculator", "add"]
+- !private ["C16SimpleCalculator16SimpleCalculator", "div"]
+- !private ["C16SimpleCalculator16SimpleCalculator", "init"]
+- !private ["C16SimpleCalculator16SimpleCalculator", "mul"]
+- !private ["C16SimpleCalculator16SimpleCalculator", "sub"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "SimpleCalculator"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "SimpleCalculatorTests"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "String"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "Void"]
+- !private ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "XCTAssertEqual"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "allTests"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "deinit"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "init"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "setUp"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "simpleCalc"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "tearDown"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "testAddTwoNumbersCheck"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "testDivTwoNumbersCheck"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "testMulTwoNumbersCheck"]
+- ["C25SimpleCalculatorTestSuite21SimpleCalculatorTests", "testSubTwoNumbersCheck"]
+- !private ["Vs12StaticString", "deinit"]
+- ["C6XCTest10XCTestCase", "SimpleCalculator"]
+- ["C6XCTest10XCTestCase", "SimpleCalculatorTests"]
+- ["C6XCTest10XCTestCase", "String"]
+- ["C6XCTest10XCTestCase", "Void"]
+- !private ["C6XCTest10XCTestCase", "XCTAssertEqual"]
+- ["C6XCTest10XCTestCase", "allTests"]
+- ["C6XCTest10XCTestCase", "init"]
+- ["C6XCTest10XCTestCase", "setUp"]
+- ["C6XCTest10XCTestCase", "simpleCalc"]
+- ["C6XCTest10XCTestCase", "tearDown"]
+- ["C6XCTest10XCTestCase", "testAddTwoNumbersCheck"]
+- ["C6XCTest10XCTestCase", "testDivTwoNumbersCheck"]
+- ["C6XCTest10XCTestCase", "testMulTwoNumbersCheck"]
+- ["C6XCTest10XCTestCase", "testSubTwoNumbersCheck"]
+- ["C6XCTest10XCTestCase", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sq"
+- !private "C16SimpleCalculator16SimpleCalculator"
+- "C25SimpleCalculatorTestSuite21SimpleCalculatorTests"
+- !private "Vs12StaticString"
+- "C6XCTest10XCTestCase"
+depends-dynamic-lookup:
+depends-external:
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/Visibility.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/LibcShims.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/RefCount.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/HeapObject.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/FoundationShims.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/shims/module.map"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/linux/x86_64/XCTest.swiftmodule"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/codio/apple/swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a-ubuntu14.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/codio/workspace/SimpleCalculator/.build/debug/SimpleCalculator.swiftmodule"
+interface-hash: "4bec38424f00e9b95a0988a88e4b5c36"

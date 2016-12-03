@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/codio/workspace/SimpleCalculator/.build/debug/SimpleCalculator.build/master.swiftdeps"
+  },
+  "/home/codio/workspace/SimpleCalculator/Sources/SimpleCalculator.swift": {
+    "dependencies": "/home/codio/workspace/SimpleCalculator/.build/debug/SimpleCalculator.build/SimpleCalculator.d",
+    "object": "/home/codio/workspace/SimpleCalculator/.build/debug/SimpleCalculator.build/SimpleCalculator.swift.o",
+    "swiftmodule": "/home/codio/workspace/SimpleCalculator/.build/debug/SimpleCalculator.build/SimpleCalculator~partial.swiftmodule",
+    "swift-dependencies": "/home/codio/workspace/SimpleCalculator/.build/debug/SimpleCalculator.build/SimpleCalculator.swiftdeps"
+  }
+}

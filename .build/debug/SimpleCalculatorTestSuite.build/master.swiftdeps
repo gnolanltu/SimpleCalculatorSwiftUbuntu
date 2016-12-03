@@ -1,0 +1,6 @@
+version: "Swift version 3.0-dev (LLVM b010debd0e, Clang 3e4d01d89b, Swift 7182c58cb2)"
+options: "eaddae3cf6a4c9f9f4e1092e4d1ac3bb"
+build_time: [515126551, 677755000]
+inputs:
+  "/home/codio/workspace/SimpleCalculator/Tests/SimpleCalculator/SimpleCalculatorTests.swift": [514513408, 0]
+  "/home/codio/workspace/SimpleCalculator/Tests/SimpleCalculator/OtherCalculatorTests.swift": [515125176, 0]
